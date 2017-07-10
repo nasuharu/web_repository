@@ -1,5 +1,5 @@
 <!doctype html>
-<html>
+<html lang="ja">
 <head>
 <meta charset="utf-8">
 <title>wow!</title>
@@ -9,8 +9,8 @@
 	<h1>Welcome to my page!</h1>
 	<nav>
 		<ul style="list-style-type: square">
-		<li><a href="https://github.com/nasuharu">GitHub</a></li>
-		<li><a href="https://github.com/nasuharu">GitHub</a></li>
+		<li><a href="https://github.com/nasuharu">GitHubはこちら</a></li>
+		<li><a href="mailto:b1500637@planet.kanazawa-it.ac.jp">お問い合わせ</a></li>
 		<li><a href="https://github.com/nasuharu">GitHub</a></li>
 		</ul>
 	</nav>
