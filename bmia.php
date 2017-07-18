@@ -29,9 +29,9 @@
   }
   else{}
 
-//結果出力
 print "BMI=".$bmi."です。<br />";
 print "体型は".$bodyType."です。<br />";
 ?>
+<a href="bmi.php">戻る</a>
 </body>
 </html>
